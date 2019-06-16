@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:13:22-64
+application
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:17:5-43:19
+	android:label
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.mcmaster.xuq22.activity.MainActivity
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:23:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.mcmaster.xuq22.activity.GeneratorActivity
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:32:13-73
+activity#com.mcmaster.xuq22.activity.ReceiverActivity
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:35:9-38:20
+	android:label
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:37:13-60
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:36:13-72
+activity#com.mcmaster.xuq22.activity.CardActivity
+ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:41:13-43
+	android:name
+		ADDED from C:\Users\92022\Desktop\Acoustic-master1\app\src\main\AndroidManifest.xml:40:13-68

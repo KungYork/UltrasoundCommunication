@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_card.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\layout\\fragment_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_receiver.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\layout\\activity_receiver.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_generator.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\layout\\activity_generator.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_generator.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\layout\\fragment_generator.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_card.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\layout\\activity_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_receiver.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\layout\\fragment_receiver.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\raw_ring1.mp3.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\raw\\ring1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\menu_receiver.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\menu\\receiver.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\menu_generator.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\menu\\generator.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\raw_di.wav.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\raw\\di.wav"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\layout-v14_fragment_generator.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\layout-v14\\fragment_generator.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "C:\\Users\\92022\\Desktop\\Acoustic-master1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
